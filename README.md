@@ -14,7 +14,7 @@ This project implements an IP scanning system using **Django**, **Celery**, **Re
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-repository/ip-scanner.git
+git clone https://github.com/Amr1997/dphish-IP-Adress-Reputation-Scanning-.git
 cd ip-scanner
 ```
 
